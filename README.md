@@ -23,7 +23,7 @@
 
 ###
 
-<img src="./workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brxic/brxic/refs/heads/main/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
