@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is brxic and I'm a programmer </h2>
+<h2 align="left">Hi! My name is brxic and I'm practicing to get a programmer </h2>
 
 ###
 
