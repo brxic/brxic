@@ -23,7 +23,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/brxic/brxic/refs/heads/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/brxic/brxic/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
 
