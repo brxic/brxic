@@ -10,7 +10,7 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/users/499986232915394561" target="_blank">
+  <a href="https://discord.com/users/778910708310081549" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/basil-ramseyer-402746286/" target="_blank">
