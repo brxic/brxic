@@ -43,9 +43,6 @@
   <a href="https://www.instagram.com/ba_08sil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="20" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/basil-ramseyer-402746286/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="20" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
