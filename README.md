@@ -1,7 +1,7 @@
 <h2 align="center">Hi! My name is brxic and I'm practicing to become a programmer </h2>
 
 <div align="center">
-  <p>Here you can find some of my</p><a href="https://github.com/stars/brxic/lists/projects">projects</a>
+  Here you can find some of my<a href="https://github.com/stars/brxic/lists/projects">projects</a>
 </div>
 
 ###
