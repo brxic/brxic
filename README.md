@@ -1,6 +1,8 @@
 <h2 align="center">Hi! My name is brxic and I'm practicing to become a programmer </h2>
 
-<p>Here you can find some of my projects <a href="https://github.com/stars/brxic/lists/projects"></a></p>
+<div align="center">
+  <p>Here you can find some of my projects</p> <a href="https://github.com/stars/brxic/lists/projects"></a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brxic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
