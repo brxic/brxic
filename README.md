@@ -6,6 +6,7 @@
 
 ###
 
+<h3 align="center">Github Stats: </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brxic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brxic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -22,6 +23,7 @@
 
 ###
 
+<h3 align="center">Commit Snake: </h3>
 <img align="center" src="https://raw.githubusercontent.com/brxic/brxic/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -32,6 +34,7 @@
 
 ###
 
+<h3 align="center">How to reach me: </h3>
 <div align="center">
   <a href="https://discord.com/users/778910708310081549" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="20" alt="discord logo"  />
