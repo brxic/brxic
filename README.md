@@ -13,9 +13,7 @@
 
 ###
 
-<div align="center">
-  Tech Stack: </a>
-</div>
+<h3 align="center">Tech Stack: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,css,html,js,nextjs,cloudflare,mongodb,mysql,md,obsidian,git,linux,ubuntu,raspberrypi, bash" />
