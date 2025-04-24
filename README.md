@@ -17,7 +17,7 @@
 <h3 align="center">Tech Stack: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,tailwindcss,angular,html,js,typescript,nextjs,springboot,cloudflare,mongodb,mysql,md,obsidian,git,linux,ubuntu,raspberrypi, bash" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,tailwind,angular,html,js,ts,nextjs,spring,cloudflare,mongodb,mysql,md,obsidian,git,linux,ubuntu,raspberrypi, bash" />
   </a>
 </p>
 
