@@ -56,7 +56,7 @@
 ###
 
 <h3 align="center">Commit Snake: </h3>
-<img align="center" src="https://raw.githubusercontent.com/brxic/brxic/refs/heads/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/brxic/brxic/output/snake.svg" alt="Snake animation" />
 
 ###
 
