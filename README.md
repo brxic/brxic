@@ -60,12 +60,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/brxic/count.svg?"  />
-</div>
-
-###
-
 <h3 align="center">How to reach me: </h3>
 <div align="center">
   <a href="https://discord.com/users/778910708310081549" target="_blank">
