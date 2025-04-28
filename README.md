@@ -55,11 +55,6 @@
 
 ###
 
-<h3 align="center">Commit Snake: </h3>
-<img src="https://raw.githubusercontent.com/brxic/brxic/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="center">How to reach me: </h3>
 <div align="center">
   <a href="https://discord.com/users/778910708310081549" target="_blank">
