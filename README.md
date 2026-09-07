@@ -3,36 +3,20 @@
 
   <br />
 
-  <a href="https://brxic.github.io/">Portfolio</a>
-  &nbsp;&bull;&nbsp;
-  <a href="https://github.com/brxic?tab=repositories">Projects</a>
-  &nbsp;&bull;&nbsp;
-  <a href="https://tryhackme.com/r/p/brxic">TryHackMe</a>
+  <a href="https://github.com/brxic?tab=repositories">Explore my projects</a>
 </div>
 
 ## About me
 
-I'm an IT trainee from Switzerland, building practical projects while growing into a well-rounded software developer. I enjoy turning ideas into clean, useful software and learning how systems work all the way from the interface to the infrastructure behind it.
+I'm an IT trainee from Switzerland focused on software development, automation, and cybersecurity. I learn by building practical projects—and away from the keyboard, I enjoy music, gaming, and floorball.
 
-- Currently sharpening my skills in **software engineering** and **cybersecurity**
-- Building with **Java**, **Python**, **JavaScript**, and **TypeScript**
-- Interested in maintainable applications, automation, and secure systems
-- Away from the keyboard: music, gaming, and floorball
+## Tech stack
 
-## Selected work
-
-| Project | What it is | Focus |
-| :--- | :--- | :--- |
-| [brxic.github.io](https://github.com/brxic/brxic.github.io) | My personal web presence and frontend playground | JavaScript, Web |
-| [contactapp-vaadin](https://github.com/brxic/contactapp-vaadin) | A contact-management application built with Vaadin | Java, Full stack |
-| [Modul-122](https://github.com/brxic/Modul-122) | Automation and scripting exercises | Shell, Automation |
-
-## Toolbox
-
-| Languages | Frontend | Backend & data | Tools & platforms |
-| :--- | :--- | :--- | :--- |
-| Java, Python | HTML, CSS, Tailwind CSS | Spring, MySQL | Git, Linux |
-| JavaScript, TypeScript | Angular, Next.js | MongoDB | Azure, Bash, IntelliJ IDEA |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,tailwind,angular,nextjs,spring,mysql,mongodb,azure,git,linux,bash,idea&amp;perline=9" alt="Java, Python, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Angular, Next.js, Spring, MySQL, MongoDB, Azure, Git, Linux, Bash, and IntelliJ IDEA" />
+  </a>
+</div>
 
 ## Contribution trail
 
@@ -44,10 +28,16 @@ I'm an IT trainee from Switzerland, building practical projects while growing in
   </picture>
 </div>
 
-## Let's connect
-
-You can find me on [Instagram](https://www.instagram.com/ba_08sil/), [Discord](https://discord.com/users/778910708310081549), or [TryHackMe](https://tryhackme.com/r/p/brxic).
-
 <div align="center">
+  <a href="https://www.linkedin.com/in/basil-ramseyer/">LinkedIn</a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://www.instagram.com/ba_08sil/">Instagram</a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://discord.com/users/778910708310081549">Discord</a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://tryhackme.com/r/p/brxic">TryHackMe</a>
+
+  <br /><br />
+
   <sub>Always learning. Always building.</sub>
 </div>
