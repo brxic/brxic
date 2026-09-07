@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm an IT trainee from Switzerland focused on software development, automation, and cybersecurity. I learn by building practical projects—and away from the keyboard, I enjoy music, gaming, and floorball.
+I'm an IT trainee from Switzerland focused on software development, automation, and cybersecurity. I learn by building practical projects and away from the keyboard, I enjoy music, gaming, and sports.
 
 ## Tech stack
 
@@ -27,6 +27,8 @@ I'm an IT trainee from Switzerland focused on software development, automation, 
     <img src="https://raw.githubusercontent.com/brxic/brxic/output/github-snake.svg" alt="GitHub contribution snake animation" />
   </picture>
 </div>
+
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/basil-ramseyer/">LinkedIn</a>
